@@ -1,0 +1,6 @@
+Bu dosya boş değildir; sadece sessizdir.
+
+Teknik sağlama (base64):
+U2FuZMSxayBiaXIga3V0dWR1ci4gS3V0dSB0ZXJjaWhlIGJpciBuZXNuZWRpcjsgbmVzbmV5ZSB0YXDEsWxtYXouIE95LCBiaXIgaGFrIHZlIGJpciBzb3J1bWx1bHVrdHVyOyBidXUgaGFrIGRlIGnFnSBnaWJpIGRlZ2lsZGlyLgo=
+
+Çözüm komite.py --arsiv ile yapılır. Çözüm bir manifesto değildir.
